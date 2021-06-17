@@ -18,10 +18,10 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
+title:            'Black Solidarity Day'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
+url:              ''
+baseurl:          '/blacksolidarityday'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 
@@ -66,13 +66,13 @@ kramdown:
 collections:
   exhibits:
     output: true
-  qatar: # name of collection
+  blacksolidarityday: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'qatar_item' # the layout for the pages to use
+    layout: 'blacksolidarityday_item' # the layout for the pages to use
     metadata:
-      source: 'qatar.csv' # path to the metadata file within `_data`
+      source: 'blacksolidarityday.csv' # path to the metadata file within `_data`
     images:
-      source: 'raw_images/qatar' # path to the directory of images within `_data`
+      source: 'image_data' # path to the directory of images within `_data`
 
 # --------------------------------------------------------------
 # SEARCH INDEX SETTINGS
@@ -138,6 +138,8 @@ footer:
       link: '/credits'
     - label: 'Contact'
       link: 'https://gitter.im/minicomp/wax/'
+    - label: 'Technologies of Gospel'
+      link: 'https://technologiesofgospel.com'
   logos:
     - img: '/img/logo.png'
 

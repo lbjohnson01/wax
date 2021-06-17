@@ -2,10 +2,10 @@
 layout: page
 show_title: false
 banner:
-  collection: qatar
-  pid: obj10
-  y: 25%
-  height: '500px'
+  collection: blacksolidarityday
+  pid: tam011
+  y: 10%
+  height: '600px'
 ---
 
 __Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
@@ -14,4 +14,6 @@ The collection items in this demo are from The Museum of Islamic Art, Qatar, (co
 
 ### Browse the Collection
 
-{% include collection_gallery.html facet_by='object_type' collection='qatar' %}
+{% include collection_gallery.html facet_by='object_type' collection='blacksolidarityday' %}
+
+A [Technologies of Gospel](https://www.technologiesofgospel.com/) joint

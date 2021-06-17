@@ -1,0 +1,121 @@
+---
+layout: none
+---
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/collection/blacksolidarityday.json",
+  "@type": "sc:Collection",
+  "label": "blacksolidarityday",
+  "manifests": [
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam023/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam023"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam022/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam022"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam008/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam008"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam020/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam020"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam009/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam009"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam019/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam019"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam018/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam018"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam017/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam017"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam016/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam016"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam014/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam014"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam015/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam015"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam013/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam013"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam004/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam004"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam010/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam010"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam011/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam011"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam005/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam005"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam007/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam007"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam006/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam006"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam012/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam012"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam002/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam002"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam003/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam003"
+    },
+    {
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/tam001/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "tam001"
+    }
+  ]
+}
